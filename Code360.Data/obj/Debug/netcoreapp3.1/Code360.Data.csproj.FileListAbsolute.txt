@@ -1,0 +1,13 @@
+C:\Users\peter\source\repos\Code360.Entities\Code360.Data\bin\Debug\netcoreapp3.1\Code360.Data.deps.json
+C:\Users\peter\source\repos\Code360.Entities\Code360.Data\bin\Debug\netcoreapp3.1\Code360.Data.dll
+C:\Users\peter\source\repos\Code360.Entities\Code360.Data\obj\Debug\netcoreapp3.1\Code360.Data.csprojAssemblyReference.cache
+C:\Users\peter\source\repos\Code360.Entities\Code360.Data\obj\Debug\netcoreapp3.1\Code360.Data.AssemblyInfoInputs.cache
+C:\Users\peter\source\repos\Code360.Entities\Code360.Data\obj\Debug\netcoreapp3.1\Code360.Data.AssemblyInfo.cs
+C:\Users\peter\source\repos\Code360.Entities\Code360.Data\bin\Debug\netcoreapp3.1\Code360.Data.pdb
+C:\Users\peter\source\repos\Code360.Entities\Code360.Data\obj\Debug\netcoreapp3.1\Code360.Data.dll
+C:\Users\peter\source\repos\Code360.Entities\Code360.Data\obj\Debug\netcoreapp3.1\Code360.Data.pdb
+C:\Users\peter\source\repos\Code360.Entities\Code360.Data\bin\Debug\netcoreapp3.1\Code360.Data.runtimeconfig.json
+C:\Users\peter\source\repos\Code360.Entities\Code360.Data\bin\Debug\netcoreapp3.1\Code360.Data.runtimeconfig.dev.json
+C:\Users\peter\source\repos\Code360.Entities\Code360.Data\bin\Debug\netcoreapp3.1\Code360.Entities.dll
+C:\Users\peter\source\repos\Code360.Entities\Code360.Data\bin\Debug\netcoreapp3.1\Code360.Entities.pdb
+C:\Users\peter\source\repos\Code360.Entities\Code360.Data\obj\Debug\netcoreapp3.1\Code360.Data.csproj.CopyComplete

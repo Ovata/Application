@@ -1,0 +1,8 @@
+C:\Users\peter\source\repos\Code360.Entities\Code360.Services\bin\Debug\netcoreapp3.1\Code360.Services.deps.json
+C:\Users\peter\source\repos\Code360.Entities\Code360.Services\bin\Debug\netcoreapp3.1\Code360.Services.dll
+C:\Users\peter\source\repos\Code360.Entities\Code360.Services\bin\Debug\netcoreapp3.1\Code360.Services.pdb
+C:\Users\peter\source\repos\Code360.Entities\Code360.Services\obj\Debug\netcoreapp3.1\Code360.Services.csprojAssemblyReference.cache
+C:\Users\peter\source\repos\Code360.Entities\Code360.Services\obj\Debug\netcoreapp3.1\Code360.Services.AssemblyInfoInputs.cache
+C:\Users\peter\source\repos\Code360.Entities\Code360.Services\obj\Debug\netcoreapp3.1\Code360.Services.AssemblyInfo.cs
+C:\Users\peter\source\repos\Code360.Entities\Code360.Services\obj\Debug\netcoreapp3.1\Code360.Services.dll
+C:\Users\peter\source\repos\Code360.Entities\Code360.Services\obj\Debug\netcoreapp3.1\Code360.Services.pdb
